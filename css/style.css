@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background: rgba(170, 12, 162, 0.315)
+}
+
+ul, li {
+    list-style: none;
+    
+}
+
+h1, form, h2, div {
+    text-align: center;
+}
+
+h2 {
+    padding: 10px;
+}
+
+header {
+    padding: 1.5rem;
+    background-color: rgba(137, 43, 226, 0.76);
+
+}
+
+form {
+    padding: 1.5rem;
+    background-color:  rgba(137, 43, 226, 0.555);
+    font-weight: 700;
+}
+
+input {
+    border-radius: 0.4rem;
+    padding: 1px 2px;
+}
+
+main {
+    background-color:  rgba(170, 12, 162, 0.315);
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.deleteButton {
+    color: white;
+    border-style: hidden;
+    background-color: #463e708f;
+    margin: 10px;
+    padding: 0.4rem;
+    border-radius: 25%;
+}
